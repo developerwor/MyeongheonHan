@@ -1,4 +1,4 @@
-<h1 align="center">프로필!</h1>
+<h1 align="center">프로필</h1>
 <h4 align="center"> 💻 유니티 개발자 💻 </h4>
 <h4 align="center"> 개발 종류 : 3D, VR </h4>
 
