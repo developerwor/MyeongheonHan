@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 
-### 사용하는 프로그래밍 언어
+### 사용 프로그래밍 언어
 
 [![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge)](#)
 [![SQL](https://img.shields.io/badge/SQL-yellow?&style=for-the-badge)](#)
