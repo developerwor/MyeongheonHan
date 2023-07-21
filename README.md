@@ -10,7 +10,7 @@
 
 ### - 프로그래밍 언어 -
 
-[![Python](https://img.shields.io/badge/-C#-306998?logo=C#&logoColor=white&style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/-C#-306998?logo=c#&logoColor=white&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 ### - 개발환경 -
