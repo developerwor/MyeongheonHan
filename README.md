@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/개발자_포트폴리오-800000?style=for-the-badge&logo=개발자_포트폴리오&logoColor=white)](https://www.naver.com/)
 
-### Contact me: 
+### 연락처: 
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 
@@ -15,7 +15,7 @@
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
 [![Data visualization](https://img.shields.io/badge/-Data%20visualization-turquoise?style=for-the-badge)](#)
 
-### Programming Languages
+### 사용하는 프로그래밍 언어
 
 [![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge)](#)
 [![SQL](https://img.shields.io/badge/SQL-yellow?&style=for-the-badge)](#)
