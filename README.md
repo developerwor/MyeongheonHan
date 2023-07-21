@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/개발자_포트폴리오-800000?style=for-the-badge&logo=개발자_포트폴리오&logoColor=white)](https://www.naver.com/)
 
-### 연락처
+## 연락처
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 
