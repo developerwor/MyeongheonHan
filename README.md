@@ -1,5 +1,6 @@
-<h1 align="center">👋Hey, I'm K</h1>
-<h3 align="center">A Python Developer living in South Korea, Changwon</h3>
+<h1 align="center">안녕하세요!</h1>
+<h3 align="center"> 유니티 개발자입니다</h3>
+<h3 align="center"> 개발 종류 : 3D, VR </h3>
 
 [![](https://img.shields.io/badge/개발자_포트폴리오-800000?style=for-the-badge&logo=개발자_포트폴리오&logoColor=white)](https://kyeongsupchoi.github.io)
 
