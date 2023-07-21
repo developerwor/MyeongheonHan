@@ -5,11 +5,11 @@
 [![](https://img.shields.io/badge/개발자_포트폴리오-800000?style=for-the-badge&logo=개발자_포트폴리오&logoColor=white)](/-- --/)
 
 ### Contact me: 
-/** 버튼 **/
+
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 
 ### I'm specialized in these fields:
-[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-teal?style=for-the-badge)](#) 
+[![Machine ](https://img.shields.io/badge/-Machine%20Learning-teal?style=for-the-badge)](#) 
 [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#)
 [![Data science](https://img.shields.io/badge/-Data%20science-green?style=for-the-badge)](#) 
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
