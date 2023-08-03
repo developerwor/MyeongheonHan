@@ -1,6 +1,6 @@
 <h1 align="center">프로필</h1>
 <h4 align="center"> 💻 유니티 개발자 💻 </h4>
-<h4 align="center"> 개발 종류 : 3D, VR </h4>
+<h4 align="center"> 개발 종류 : 2D, 3D, VR </h4>
 
 [![](https://img.shields.io/badge/개발자_포트폴리오-800000?style=for-the-badge&logo=개발자_포트폴리오&logoColor=white)](https://developerwor.github.io/)
 
