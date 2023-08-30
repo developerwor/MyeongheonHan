@@ -6,7 +6,7 @@
 
 ### - 연락처 -
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail=white)]("https://hmh9110@naver.com")
+[![](https://img.shields.io/badge/FaceBook-D14836?style=for-the-badge&logo=faceBook=white)]("https://hmh9110@naver.com")
 
 ### - 프로그래밍 언어 -
 
